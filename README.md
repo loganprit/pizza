@@ -1,2 +1,2 @@
 # pizza
-Thinkful Intro to GitHub Lesson
+Thinkful Lesson - Intro to GitHub
